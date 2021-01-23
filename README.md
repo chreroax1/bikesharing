@@ -8,7 +8,7 @@
 
 <h2> Overview of the analysis </h2>
 
-The purpose of this project was to see if a bike rental business is worth investing in in the city of Des Moines, Iowa. Data from the city of New York during August 2018, I created visualizations to help illustrate some data points. 
+The purpose of this project was to see if a bike rental business is worth investing in in the city of Des Moines, Iowa. Using data from the city of New York during August 2018, I created visualizations to help illustrate some data points. 
 
 <h2> Preparation </h2>
 First, I needed to change a data type of the column ('tripduration') from reading as an integer into reading as timedate data. The purpose of this was so it could be broken down into hours, minutes and seconds. I did this by taking the csv file and converting the data into the proper data type using Junyper Notebook and Pandas software. Once converted, I exported the newly transformed csv into Tableau to start our visualizations.
